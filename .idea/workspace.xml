@@ -20,41 +20,24 @@
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$arguman_karisik.coverage" NAME="arguman_karisik Coverage Results" MODIFIED="1535204724887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/argumanlar_arg_ kwarg" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$ana_ekran.coverage" NAME="ana_ekran Coverage Results" MODIFIED="1534525528938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kutuphane" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$python_lambda_fonksiyonu.coverage" NAME="python_lambda_fonksiyonu Coverage Results" MODIFIED="1534248639879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ozel_fonksiyonlar" />
+    <SUITE FILE_PATH="coverage/Python_ileri_seviye$Python_oop_01.coverage" NAME="Python_oop_01 Coverage Results" MODIFIED="1535349904472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="arguman_kullanimi.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_kullanimi.py">
+      <file leaf-file-name="Python_oop_01.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="44" />
+            <state>
+              <caret selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arg_kullanimi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arg_kullanimi.py">
+      <file leaf-file-name="Python_oop_class_variable_(sinif_degiskenleri).py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_class_variable_(sinif_degiskenleri).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kwarg_kullanimi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/kwarg_kullanimi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arguman_karisik.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_karisik.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="416">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -88,6 +71,8 @@
         <option value="$PROJECT_DIR$/argumanlar_arg_ kwarg/arg_kullanimi.py" />
         <option value="$PROJECT_DIR$/argumanlar_arg_ kwarg/kwarg_kullanimi.py" />
         <option value="$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_karisik.py" />
+        <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py" />
+        <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_class_variable_(sinif_degiskenleri).py" />
       </list>
     </option>
   </component>
@@ -101,10 +86,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1873" />
-    <option name="y" value="-192" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="x" value="1592" />
+    <option name="y" value="-183" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,7 +107,7 @@
             <path>
               <item name="Python_ileri_seviye" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_ileri_seviye" type="462c0819:PsiDirectoryNode" />
-              <item name="argumanlar_arg_ kwarg" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_oop_(nesne_yonelimli_python)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +134,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.arguman_karisik">
+  <component name="RunManager" selected="Python.Python_oop_01">
+    <configuration name="Python_oop_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_ileri_seviye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="arg_kullanimi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ileri_seviye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,39 +230,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="python_reduce_fonksiyonu" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_ileri_seviye" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ozel_fonksiyonlar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ozel_fonksiyonlar/python_reduce_fonksiyonu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.python_reduce_fonksiyonu" />
       <item itemvalue="Python.arguman_karisik" />
       <item itemvalue="Python.arguman_kullanimi" />
       <item itemvalue="Python.arg_kullanimi" />
       <item itemvalue="Python.kwarg_kullanimi" />
+      <item itemvalue="Python.Python_oop_01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Python_oop_01" />
         <item itemvalue="Python.arguman_karisik" />
         <item itemvalue="Python.kwarg_kullanimi" />
         <item itemvalue="Python.arg_kullanimi" />
         <item itemvalue="Python.arguman_kullanimi" />
-        <item itemvalue="Python.python_reduce_fonksiyonu" />
       </list>
     </recent_temporary>
   </component>
@@ -276,16 +261,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="-183" width="1936" height="1056" extended-state="6" />
+    <frame x="1592" y="-183" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2646121" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13802083" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -300,29 +286,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1125" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -336,6 +299,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_kullanimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arg_kullanimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/kwarg_kullanimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_karisik.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_ozel_fonksiyonlar/python_lambda_fonksiyonu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -466,7 +460,7 @@
     <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arg_kullanimi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="29" />
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -479,7 +473,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_karisik.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="418">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
@@ -487,7 +481,21 @@
     <entry file="file://$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_kullanimi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="44" />
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_class_variable_(sinif_degiskenleri).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
