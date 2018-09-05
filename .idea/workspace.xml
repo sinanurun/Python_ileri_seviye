@@ -15,6 +15,7 @@
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$arguman_kullanimi.coverage" NAME="arguman_kullanimi Coverage Results" MODIFIED="1535203996552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/argumanlar_arg_ kwarg" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$Python_oop_04_inheritances_subclass.coverage" NAME="Python_oop_04_inheritances_subclass Coverage Results" MODIFIED="1535808895618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$python_map_fonksiyonu.coverage" NAME="python_map_fonksiyonu Coverage Results" MODIFIED="1534325613984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ozel_fonksiyonlar" />
+    <SUITE FILE_PATH="coverage/Python_ileri_seviye$Python_oop_05_magic_dunder_methods.coverage" NAME="Python_oop_05_magic_dunder_methods Coverage Results" MODIFIED="1535896329066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$python_filter_fonksiyonu.coverage" NAME="python_filter_fonksiyonu Coverage Results" MODIFIED="1534505554161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ozel_fonksiyonlar" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$kwarg_kullanimi.coverage" NAME="kwarg_kullanimi Coverage Results" MODIFIED="1535204539655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/argumanlar_arg_ kwarg" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$arg_kullanimi.coverage" NAME="arg_kullanimi Coverage Results" MODIFIED="1535204427105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/argumanlar_arg_ kwarg" />
@@ -22,16 +23,27 @@
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$arguman_karisik.coverage" NAME="arguman_karisik Coverage Results" MODIFIED="1535204724887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/argumanlar_arg_ kwarg" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$Python_oop_03_classmethod_staticmethod_regularmethod.coverage" NAME="Python_oop_03_classmethod_staticmethod_regularmethod Coverage Results" MODIFIED="1535378834258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$ana_ekran.coverage" NAME="ana_ekran Coverage Results" MODIFIED="1534525528938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kutuphane" />
+    <SUITE FILE_PATH="coverage/Python_ileri_seviye$repr_and_str.coverage" NAME="repr_and_str Coverage Results" MODIFIED="1535896727943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
+    <SUITE FILE_PATH="coverage/Python_ileri_seviye$Python_oop_06_property__getter__setter_deletter_decorators.coverage" NAME="Python_oop_06_property_(getter)_setter_deletter_decorators Coverage Results" MODIFIED="1536069259282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$python_lambda_fonksiyonu.coverage" NAME="python_lambda_fonksiyonu Coverage Results" MODIFIED="1534248639879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ozel_fonksiyonlar" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$Python_oop_01.coverage" NAME="Python_oop_01 Coverage Results" MODIFIED="1535349904472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Python_oop_04_inheritances_subclass.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_04_inheritances_subclass.py">
+      <file leaf-file-name="Python_oop_01_class_init_.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01_class_init_.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+            <state relative-caret-position="817">
+              <caret line="51" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Python_oop_06_property_(getter)_setter_deletter_decorators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_06_property_(getter)_setter_deletter_decorators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -69,6 +81,9 @@
         <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_class_variable_(sinif_degiskenleri).py" />
         <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_03_classmethod_staticmethod_regularmethod.py" />
         <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_04_inheritances_subclass.py" />
+        <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_05_magic_dunder_methods.py" />
+        <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/repr_and_str.py" />
+        <option value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_06_property_(getter)_setter_deletter_decorators.py" />
       </list>
     </option>
   </component>
@@ -116,7 +131,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,26 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Python_oop_04_inheritances_subclass">
-    <configuration name="Python_oop_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_ileri_seviye" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Python_oop_06_property_(getter)_setter_deletter_decorators">
     <configuration name="Python_oop_03_classmethod_staticmethod_regularmethod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ileri_seviye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +184,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Python_oop_class_variable_(sinif_degiskenleri)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Python_oop_05_magic_dunder_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ileri_seviye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,13 +197,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_class_variable_(sinif_degiskenleri).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_05_magic_dunder_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="arguman_karisik" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Python_oop_06_property_(getter)_setter_deletter_decorators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_ileri_seviye" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,31 +211,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/argumanlar_arg_ kwarg" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argumanlar_arg_ kwarg/arguman_karisik.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_06_property_(getter)_setter_deletter_decorators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="repr_and_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_ileri_seviye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/repr_and_str.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.arguman_karisik" />
-      <item itemvalue="Python.Python_oop_01" />
-      <item itemvalue="Python.Python_oop_class_variable_(sinif_degiskenleri)" />
       <item itemvalue="Python.Python_oop_03_classmethod_staticmethod_regularmethod" />
       <item itemvalue="Python.Python_oop_04_inheritances_subclass" />
+      <item itemvalue="Python.Python_oop_05_magic_dunder_methods" />
+      <item itemvalue="Python.repr_and_str" />
+      <item itemvalue="Python.Python_oop_06_property_(getter)_setter_deletter_decorators" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Python_oop_06_property_(getter)_setter_deletter_decorators" />
+        <item itemvalue="Python.repr_and_str" />
+        <item itemvalue="Python.Python_oop_05_magic_dunder_methods" />
         <item itemvalue="Python.Python_oop_04_inheritances_subclass" />
         <item itemvalue="Python.Python_oop_03_classmethod_staticmethod_regularmethod" />
-        <item itemvalue="Python.Python_oop_class_variable_(sinif_degiskenleri)" />
-        <item itemvalue="Python.Python_oop_01" />
-        <item itemvalue="Python.arguman_karisik" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +309,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_05_magic_dunder_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/repr_and_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_04_inheritances_subclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2356">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_03_classmethod_staticmethod_regularmethod.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="722">
@@ -495,14 +531,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01.py" />
-    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01_class_init_.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_class_variable_(sinif_degiskenleri).py" />
-    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_02_class_variable_(sinif_degiskenleri).py">
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_04_inheritances_subclass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="7" column="26" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="2147">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
@@ -513,10 +546,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_04_inheritances_subclass.py">
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_02_class_variable_(sinif_degiskenleri).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        <state relative-caret-position="76">
+          <caret line="2" column="20" lean-forward="true" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/repr_and_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_05_magic_dunder_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_01_class_init_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_oop_(nesne_yonelimli_python)/Python_oop_06_property_(getter)_setter_deletter_decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
