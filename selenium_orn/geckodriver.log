@@ -16,3 +16,343 @@ Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvr
 Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvrpaths.vrpath
 [GPU 9956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvrpaths.vrpath
+1536853898683	geckodriver	INFO	geckodriver 0.21.0
+1536853898691	geckodriver	INFO	Listening on 127.0.0.1:60080
+1536853901743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.2G82FEwq8NtS"
+1536853912687	Marionette	INFO	Listening on port 60088
+1536853912849	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+1536853920220	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 9400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\qosmio\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536854251961	geckodriver	INFO	geckodriver 0.21.0
+1536854251970	geckodriver	INFO	Listening on 127.0.0.1:60202
+1536854254993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.cL1GtDKpjRQq"
+1536854313826	geckodriver	INFO	geckodriver 0.21.0
+1536854313838	geckodriver	INFO	Listening on 127.0.0.1:60233
+1536854316909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.ytZzsE6pBVvD"
+1536854320470	Marionette	INFO	Listening on port 60241
+1536854320730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536854320778	Marionette	DEBUG	[6442450945] Frame script loaded
+1536854320780	Marionette	DEBUG	[6442450945] Frame script registered
+1536854320797	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536854323589	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536854325140	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536854329371	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1536854332756	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1536854332758	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1536854332828	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536854343099	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1536854343639	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1536854343651	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1536854344103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/login.php?login_attempt=1&lwv=110
+1536854344109	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1536854344109	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1536854344110	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536854344110	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1536854345096	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/login.php?login_attempt=1&lwv=110
+[Child 7804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536854347059	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 4248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536854348308	Marionette	INFO	Stopped listening on port 60241
+[GPU 8224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855118864	geckodriver	INFO	geckodriver 0.21.0
+1536855118864	geckodriver	INFO	Listening on 127.0.0.1:60342
+1536855121978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.n6qC6o7t6JWA"
+1536855125834	Marionette	INFO	Listening on port 60350
+1536855125996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536855126047	Marionette	DEBUG	[6442450945] Frame script loaded
+1536855126048	Marionette	DEBUG	[6442450945] Frame script registered
+1536855126074	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536855128399	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536855129388	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855131394	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536855151528	Marionette	INFO	Stopped listening on port 60350
+[Child 2628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1948, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 5652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855227928	geckodriver	INFO	geckodriver 0.21.0
+1536855227928	geckodriver	INFO	Listening on 127.0.0.1:60392
+1536855231039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.Pylp8P31820w"
+1536855234576	Marionette	INFO	Listening on port 60400
+1536855234953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536855235009	Marionette	DEBUG	[6442450945] Frame script loaded
+1536855235010	Marionette	DEBUG	[6442450945] Frame script registered
+1536855235025	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536855237184	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536855238072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855240488	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1536855243751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1536855243753	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1536855243822	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536855254074	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1536855255183	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1536855255194	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1536855255480	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/login.php?login_attempt=1&lwv=110
+1536855255483	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1536855255483	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1536855255483	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536855255483	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1536855256041	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/login.php?login_attempt=1&lwv=110
+[Parent 9872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855260686	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855262040	Marionette	INFO	Stopped listening on port 60400
+[GPU 2328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855351121	geckodriver	INFO	geckodriver 0.21.0
+1536855351130	geckodriver	INFO	Listening on 127.0.0.1:60480
+1536855354227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.FXLlrBQXBwem"
+1536855358448	Marionette	INFO	Listening on port 60488
+1536855358630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536855358659	Marionette	DEBUG	[6442450945] Frame script loaded
+1536855358660	Marionette	DEBUG	[6442450945] Frame script registered
+1536855358675	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536855361823	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536855362584	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855364896	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1536855368089	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1536855368095	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1536855368179	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536855378425	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1536855379913	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1536855379927	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1536855380775	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1536855380776	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1536855380776	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536855380777	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1536855381700	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855381793	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1536855384440	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1536855387904	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1536855388033	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1536855388752	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536855398751	Marionette	INFO	Stopped listening on port 60488
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js, line 1275: Error: Connection closed, pending request to server1.conn0.child1/domwalker26, type querySelector failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14
+WalkerFront<.querySelector<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:157:12
+querySelectors@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js:650:25
+findNodeFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js:659:12
+permitUnload@chrome://global/content/bindings/remote-browser.xml:373:13
+CanCloseWindow@chrome://browser/content/browser.js:7198:36
+canClose@chrome://browser/content/browser.js:5689:12
+GeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3319:3
+despatch@chrome://marionette/content/server.js:297:20
+execute@chrome://marionette/content/server.js:271:11
+onPacket/<@chrome://marionette/content/server.js:246:15
+onPacket@chrome://marionette/content/server.js:245:8
+_onJSONObjectReady/<@chrome://marionette/content/transport.js:500:9
+
+[Child 368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js, line 1275: Error: Connection closed, pending request to server1.conn0.child1/performanceActor17, type connect failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1332:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1486:14
+PerformanceFront<.connect<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/performance.js:33:30
+permitUnload@chrome://global/content/bindings/remote-browser.xml:373:13
+CanCloseWindow@chrome://browser/content/browser.js:7198:36
+canClose@chrome://browser/content/browser.js:5689:12
+GeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3319:3
+despatch@chrome://marionette/content/server.js:297:20
+execute@chrome://marionette/content/server.js:271:11
+onPacket/<@chrome://marionette/content/server.js:246:15
+onPacket@chrome://marionette/content/server.js:245:8
+_onJSONObjectReady/<@chrome://marionette/content/transport.js:500:9
+
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:664:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:715:7\nLine: 1888, column: 0"
+[Parent 3968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3968, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 4584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855854489	geckodriver	INFO	geckodriver 0.21.0
+1536855854504	geckodriver	INFO	Listening on 127.0.0.1:60574
+1536855857585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.2NyCqp19U9qj"
+1536855862804	Marionette	INFO	Listening on port 60582
+1536855863108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536855863158	Marionette	DEBUG	[6442450945] Frame script loaded
+1536855863160	Marionette	DEBUG	[6442450945] Frame script registered
+1536855863177	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536855865577	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536855866561	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855869697	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855891766	Marionette	INFO	Stopped listening on port 60582
+[GPU 9748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536855907957	geckodriver	INFO	geckodriver 0.21.0
+1536855907973	geckodriver	INFO	Listening on 127.0.0.1:60634
+1536855911008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.hPPeawbRDdbT"
+1536855914637	Marionette	INFO	Listening on port 60642
+1536855914914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536855914943	Marionette	DEBUG	[6442450945] Frame script loaded
+1536855914945	Marionette	DEBUG	[6442450945] Frame script registered
+1536855914964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536855917572	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536855918226	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855920585	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1536855923110	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1536855923111	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1536855923327	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536855933560	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1536855935098	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1536855935105	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1536855935577	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1536855935577	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1536855935577	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536855935577	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1536855936876	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536855936894	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1536855941594	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1536855941596	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1536855942181	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1536855942518	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+[Parent 8348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: r1536856026634	Marionette	INFO	Listening on port 60723
+1536856027009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536856027040	Marionette	DEBUG	[6442450945] Frame script loaded
+1536856027115	Marionette	DEBUG	[6442450945] Frame script registered
+1536856027153	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536856029743	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536856031424	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536856036038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1536856040674	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1536856040676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1536856040740	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536856050998	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1536856052484	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1536856052496	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1536856053102	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1536856053102	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1536856053106	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536856053106	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1536856053961	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1536856054478	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536856056158	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1536856057591	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+[Parent 9888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536856059136	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1536856059287	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1536856060243	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536856070650	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 9888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5
+Line: 1888, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1888\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1888:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:519:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:439:5\nLine: 1888, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorPr1536856138926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\qosmio\\AppData\\Local\\Temp\\rust_mozprofile.5VBY9vRrz94T"
+1536856142759	Marionette	INFO	Listening on port 60809
+1536856142838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536856142867	Marionette	DEBUG	[6442450945] Frame script loaded
+1536856142868	Marionette	DEBUG	[6442450945] Frame script registered
+1536856142884	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536856145140	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536856145980	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536856147781	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1536856150601	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1536856150602	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1536856150808	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536856161056	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1536856162508	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1536856162519	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1536856163308	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1536856163308	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1536856163308	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1536856163309	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1536856164444	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1536856164461	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1536856166258	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1536856167461	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1536856169258	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1536856169474	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1536856170317	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1536856180724	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1536856191007	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 4804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536856209968	Marionette	INFO	Stopped listening on port 60809
+[GPU 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

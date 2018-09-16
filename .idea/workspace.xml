@@ -13,7 +13,7 @@
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1536853338645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_multithread_multiprocessing/selenium_orn" />
     <SUITE FILE_PATH="coverage/i_seviye$sd.coverage" NAME="sd Coverage Results" MODIFIED="1536853152835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_ileri_seviye$sa.coverage" NAME="sa Coverage Results" MODIFIED="1536853380264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_ileri_seviye$as.coverage" NAME="as Coverage Results" MODIFIED="1536853431317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_orn" />
+    <SUITE FILE_PATH="coverage/Python_ileri_seviye$as.coverage" NAME="as Coverage Results" MODIFIED="1536856135484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_orn" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -25,8 +25,8 @@
       <file leaf-file-name="as.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/selenium_orn/as.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="266">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -66,8 +66,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-64" />
-    <option name="y" value="165" />
+    <option name="x" value="-763" />
+    <option name="y" value="-20" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -105,6 +105,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qosmio\Desktop" />
+      <recent name="C:\Users\qosmio\Desktop\Python_ileri_seviye\selenium_orn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,9 +238,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10604113" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -283,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium_orn/as.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="266">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
