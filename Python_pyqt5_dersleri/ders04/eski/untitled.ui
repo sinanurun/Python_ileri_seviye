@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTableView" name="tableView">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>10</y>
+      <width>791</width>
+      <height>551</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuiletiler">
+    <property name="title">
+     <string>iletiler</string>
+    </property>
+    <addaction name="actionYeni_ileti"/>
+    <addaction name="actionTaslak_iletiler"/>
+    <addaction name="actionPaylasilan_iletiler"/>
+   </widget>
+   <widget class="QMenu" name="menuPaylasim_Gruplari">
+    <property name="title">
+     <string>Paylasim Gruplari</string>
+    </property>
+    <addaction name="actionGruplar"/>
+    <addaction name="actionG_ncelle"/>
+   </widget>
+   <addaction name="menuiletiler"/>
+   <addaction name="menuPaylasim_Gruplari"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionYeni_ileti">
+   <property name="text">
+    <string>Yeni ileti</string>
+   </property>
+  </action>
+  <action name="actionTaslak_iletiler">
+   <property name="text">
+    <string>Taslak iletiler</string>
+   </property>
+  </action>
+  <action name="actionPaylasilan_iletiler">
+   <property name="text">
+    <string>Paylasilan iletiler</string>
+   </property>
+  </action>
+  <action name="actionGruplar">
+   <property name="text">
+    <string>Gruplar</string>
+   </property>
+  </action>
+  <action name="actionG_ncelle">
+   <property name="text">
+    <string>Güncelle</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
